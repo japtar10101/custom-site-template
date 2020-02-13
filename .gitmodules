@@ -8,9 +8,9 @@
 	branch = develop
 [submodule "public_html/wp-content/themes/twentyseventeen-taroomiya"]
 	path = public_html/wp-content/themes/twentyseventeen-taroomiya
-	url = git@github.com:OmiyaGames/twentyseventeen-taroomiya.git
+	url = git@github.com:japtar10101/twentyseventeen-taroomiya.git
 	branch = develop
 [submodule "public_html/wp-content/themes/game-dev-portfolio"]
 	path = public_html/wp-content/themes/game-dev-portfolio
-	url = git@github.com:OmiyaGames/game-dev-portfolio.git
+	url = git@github.com:japtar10101/game-dev-portfolio.git
 	branch = develop
