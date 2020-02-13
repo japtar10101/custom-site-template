@@ -3,3 +3,6 @@
 /provision/vvv-nginx.conf
 /public_html
 .history
+
+# *Don't* ignore git submodules
+# TODO: List git submodules below
