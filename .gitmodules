@@ -1,0 +1,16 @@
+[submodule "public_html/wp-content/plugins/admin-themes"]
+	path = public_html/wp-content/plugins/admin-themes
+	url = git@github.com:OmiyaGames/admin-themes.git
+	branch = develop
+[submodule "public_html/wp-content/plugins/itchio-button"]
+	path = public_html/wp-content/plugins/itchio-button
+	url = git@github.com:OmiyaGames/itchio-button.git
+	branch = develop
+[submodule "public_html/wp-content/themes/twentyseventeen-taroomiya"]
+	path = public_html/wp-content/themes/twentyseventeen-taroomiya
+	url = git@github.com:OmiyaGames/twentyseventeen-taroomiya.git
+	branch = develop
+[submodule "public_html/wp-content/themes/game-dev-portfolio"]
+	path = public_html/wp-content/themes/game-dev-portfolio
+	url = git@github.com:OmiyaGames/game-dev-portfolio.git
+	branch = develop
