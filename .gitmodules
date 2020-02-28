@@ -1,6 +1,6 @@
 [submodule "public_html/wp-content/plugins/admin-themes"]
 	path = public_html/wp-content/plugins/admin-themes
-	url = git@github.com:OmiyaGames/admin-themes.git
+	url = git@github.com:japtar10101/admin-themes.git
 	branch = develop
 [submodule "public_html/wp-content/plugins/itchio-button"]
 	path = public_html/wp-content/plugins/itchio-button
