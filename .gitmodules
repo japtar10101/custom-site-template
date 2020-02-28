@@ -14,3 +14,6 @@
 	path = public_html/wp-content/themes/game-dev-portfolio
 	url = git@github.com:japtar10101/game-dev-portfolio.git
 	branch = develop
+[submodule "public_html/wp-content/plugins/resume-block"]
+	path = public_html/wp-content/plugins/resume-block
+	url = git@github.com:japtar10101/resume-block.git
