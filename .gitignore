@@ -8,5 +8,6 @@
 # TODO: List git submodules below
 !/public_html/wp-content/plugins/admin-themes
 !/public_html/wp-content/plugins/itchio-button
+!/public_html/wp-content/plugins/resume-block
 !/public_html/wp-content/themes/twentyseventeen-taroomiya
 !/public_html/wp-content/themes/game-dev-portfolio
